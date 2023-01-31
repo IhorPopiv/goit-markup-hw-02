@@ -9,10 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /*----------------------HEADER----------------------------*/
-.header {
-}
-.navigation {
-}
+
 .logo-header {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -23,8 +20,7 @@ body {
 
   color: #2e2f42;
 }
-.header-list {
-}
+
 .header-list-item {
   font-weight: 500;
   font-size: 16px;
@@ -36,13 +32,6 @@ body {
 .header-list-item:hover,
 .header-list-item:focus {
   color: #404bbf;
-}
-
-.header-address {
-}
-.header-address-list {
-}
-.header-address-item {
 }
 .header-mail {
   font-weight: 400;
@@ -95,12 +84,7 @@ body {
   color: #ffffff;
 }
 /*-------------------SECTION------------------------------*/
-.section {
-}
-.section-list {
-}
-.section-list-item {
-}
+
 .section-list-item-head {
   font-weight: 500;
   font-size: 20px;
@@ -116,8 +100,7 @@ body {
   color: #434455;
 }
 /*-------------------DEVICE------------------------------*/
-.device {
-}
+
 .device-title {
   font-weight: 700;
   font-size: 36px;
@@ -127,15 +110,9 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.device-list {
-}
-.device-item {
-}
-.device-image {
-}
+
 /*-------------------TEAM------------------------------*/
-.team {
-}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -145,12 +122,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-list {
-}
-.team-item {
-}
-.team-image {
-}
+
 .team-name {
   font-weight: 500;
   font-size: 20px;
@@ -179,8 +151,7 @@ body {
 
   color: #ffffff;
 }
-.link {
-}
+
 .logo-text {
   font-weight: 400;
   font-size: 16px;
