@@ -12,8 +12,11 @@ body {
 }
 :root {
   --main-button-color: #4d5ae5;
+  --main-background-button-color: #4d5ae5;
   --secondory-button-color: #404bbf;
+  --secondory-background-button-color: #404bbf;
   --brand-text-color: #2e2f42;
+  --brand-background-color: #2e2f42;
   --brand-text: #434455;
   --main-light-color: #ffffff;
   --logo-text: #e7e9fc;
@@ -77,7 +80,7 @@ body {
 }
 /*-------------------ODER-------------------------------*/
 .oder {
-  background: var(--brand-text-color);
+  background: var(--brand-background-color);
 }
 .oder-head {
   font-size: 56px;
@@ -93,12 +96,12 @@ body {
   line-height: calc(24 / 16);
   letter-spacing: 0.04em;
   color: var(--main-light-color);
-  background: var(--main-button-color);
+  background: var(--main-background-button-color);
   cursor: pointer;
 }
 .oder-head-button:hover,
 .oder-head-button:focus {
-  background: var(--secondory-button-color);
+  background: var(--secondory-background-button-color);
   color: var(--main-light-color);
 }
 
@@ -168,7 +171,7 @@ body {
 }
 /*-------------------FOOTER------------------------------*/
 .footer {
-  background: var(--brand-text-color);
+  background: var(--brand-background-color);
 }
 .logo-footer {
   font-family: "Raleway", sans-serif;
@@ -205,7 +208,7 @@ body {
 .button-head:hover,
 .button-head:focus {
   color: var(--main-light-color);
-  background: var(--secondory-button-color);
+  background: var(--secondory-background-button-color);
 }
 
 /*-------------------DEVICE------------------------------*/
